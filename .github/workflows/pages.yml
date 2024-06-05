@@ -18,6 +18,8 @@ jobs:
           deno-version: v1.x
       - name: Setup Typst
         uses: typst-community/setup-typst@v3
+        with:
+          cache-dependency-path: lib/satzung.typ
 
       - name: Compile Site
         run: deno task build
