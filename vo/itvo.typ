@@ -9,6 +9,8 @@
   logo: image("wuespace.svg")
 )
 
+#outline()
+
 § 1 Informationstechnische Infrastruktur
 
 #s~Der Verein betreibt zur Umsetzung seiner Ziele informationstechnische Infrastruktur.
