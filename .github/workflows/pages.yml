@@ -9,13 +9,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Install Google Fonts
-        run: |
-          cd ~
-          wget -O Atkinson_Hyperlegible.zip https://fonts.google.com/download?family=Atkinson%20Hyperlegible
-          gunzip -d Atkinson_Hyperlegible/ Atkinson_Hyperlegible.zip
-          mv Atkinson_Hyperlegible /usr/share/fonts/
-          fc-cache -fv
       - name: Checkout
         uses: actions/checkout@v2
 
