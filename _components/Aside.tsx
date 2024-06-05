@@ -31,7 +31,7 @@ export function Aside({ data, hide }: AsideProps) {
             );
             return (
               <li key={url}>
-                <a href={url} className={liStyle(url)}>
+                <a href={url} className={liStyle(url)} title={title}>
                   <p className="text-lg text-gray-900">
                     {abbreviation}
                   </p>
