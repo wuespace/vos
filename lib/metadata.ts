@@ -15,13 +15,25 @@ export const MetadataSchema = z.object({
 
 export type Metadata = z.infer<typeof MetadataSchema>;
 
-export async function readMetadata(filePath: string): Promise<Metadata> {
-  return {
-    title: await readMetadataField(filePath, "title"),
-    abbreviation: await readMetadataField(filePath, "abbreviation"),
-    resolution: await readMetadataField(filePath, "resolution"),
-    inEffect: await readMetadataField(filePath, "in-effect"),
-  };
+const metadataCache = new Map<string, Metadata>();
+
+/**
+ * Reads metadata from a file using the typst CLI.
+ * The metadata is cached to avoid reading the same file multiple times, which is slow.
+ * @param filePath The path to the file to read metadata from
+ * @param cacheKey A key to use for caching the metadata.
+ * This should be a hash of the file content.
+ */
+export async function readMetadata(filePath: string, cacheKey: string): Promise<Metadata> {
+  if (!metadataCache.has(cacheKey)) {
+    metadataCache.set(cacheKey, {
+      title: await readMetadataField(filePath, "title"),
+      abbreviation: await readMetadataField(filePath, "abbreviation"),
+      resolution: await readMetadataField(filePath, "resolution"),
+      inEffect: await readMetadataField(filePath, "in-effect"),
+    });
+  }
+  return metadataCache.get(cacheKey)!;
 }
 
 export async function readMetadataField(
