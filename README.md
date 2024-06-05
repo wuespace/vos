@@ -8,6 +8,6 @@
 
 ## § 2 Bearbeitung
 
-(1) $^1$ Die Bearbeitung der Vereinsordnungen erfolgt in den Typst-Dateien im Ordner `vos`. $^2$ VOS extrahiert automatisch die delegis-Metadaten und generiert daraus die Website. $^3$ Die Website wird bei jedem Push auf den `main`-Branch automatisch neu generiert und auf dem Webserver aktualisiert.
+(1) $^1$ Die Bearbeitung der Vereinsordnungen erfolgt in den Typst-Dateien im Ordner `vo`. $^2$ VOS extrahiert automatisch die delegis-Metadaten und generiert daraus die Website. $^3$ Die Website wird bei jedem Push auf den `main`-Branch automatisch neu generiert und auf dem Webserver aktualisiert.
 
 (2) Das VOS wird vom Vorstand gepflegt.
