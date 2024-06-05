@@ -1,12 +1,27 @@
-import { clsx } from "@nick/clsx";
-import { MetadataSchema } from "../lib/metadata.ts";
+import {clsx} from "@nick/clsx";
+import {z} from "https://deno.land/x/zod@v3.23.8/mod.ts";
+import {MetadataSchema} from "../lib/metadata.ts";
 
 export interface AsideProps {
   data: Lume.Data;
   hide?: boolean;
 }
 
-export function Aside({ data, hide }: AsideProps) {
+const PropsSchema = z.object({
+  data: z.object({
+    url: z.string(),
+    page: z.object({
+      data: z.object({
+        vos: z.record(z.string(), MetadataSchema),
+      }),
+    }),
+  }),
+  hide: z.boolean().default(false),
+});
+
+export default function (props: z.input<typeof PropsSchema>) {
+  const {data, hide} = PropsSchema.parse(props);
+
   const liStyle = (targetUrl: string) =>
     clsx(
       "block p-3 hover:bg-gray-100",
@@ -15,7 +30,7 @@ export function Aside({ data, hide }: AsideProps) {
 
   return (
     <aside className={asideClass(hide ?? false)}>
-      <a href="/">
+      <a href="/" className="block">
         <img
           src="/assets/logo.svg"
           alt="WüSpace"

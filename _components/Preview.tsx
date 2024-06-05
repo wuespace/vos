@@ -1,6 +1,4 @@
-export interface PreviewProps {
-  src: string;
-}
+import {z} from "https://deno.land/x/zod@v3.23.8/mod.ts";
 
 export interface PreviewOptions {
   page?: number;
@@ -20,7 +18,13 @@ function buildViewerUrl(src: string, options: PreviewOptions = defaultOptions) {
   return `/pdfjs/web/viewer.html?file=${encodedSrc}#zoom=${zoom}&page=${page}&pagemode=${pagemode}`;
 }
 
-export function Preview({ src }: PreviewProps) {
+const PropsSchema = z.object({
+  src: z.string(),
+});
+
+export default function (props: z.input<typeof PropsSchema>) {
+  const {src} = PropsSchema.parse(props);
+
   return (
     <iframe
       src={buildViewerUrl(src)}
