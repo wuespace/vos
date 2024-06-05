@@ -22,7 +22,7 @@ export const typstDelegis = () => (site: Site) => {
       page.data = {
         ...page.data,
         layout: "vo.tsx",
-        content: page.data.url + "rendered.pdf",
+        content: site.url(page.data.url + "rendered.pdf"),
         title: metadata.abbreviation,
       };
 
