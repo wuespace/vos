@@ -2,12 +2,14 @@
   "imports": {
     "@nick/clsx": "jsr:@nick/clsx@^0.2.2",
     "lume/": "https://deno.land/x/lume@v2.2.0/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.4.1/",
     "react": "npm:react"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
-    "serve": "deno task lume -s"
+    "serve": "deno task lume -s",
+    "cms": "deno task lume cms"
   },
   "compilerOptions": {
     "types": [
