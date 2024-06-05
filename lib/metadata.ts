@@ -16,17 +16,18 @@ export const MetadataSchema = z.object({
 export type Metadata = z.infer<typeof MetadataSchema>;
 
 export async function readMetadata(filePath: string): Promise<Metadata> {
-  const [title, abbreviation, resolution, inEffect] = await Promise.all([
-    readMetadataField(filePath, "title"),
-    readMetadataField(filePath, "abbreviation"),
-    readMetadataField(filePath, "resolution"),
-    readMetadataField(filePath, "in-effect"),
-  ]);
-
-  return { title, abbreviation, resolution, inEffect };
+  return {
+    title: await readMetadataField(filePath, "title"),
+    abbreviation: await readMetadataField(filePath, "abbreviation"),
+    resolution: await readMetadataField(filePath, "resolution"),
+    inEffect: await readMetadataField(filePath, "in-effect"),
+  };
 }
 
-export async function readMetadataField(filePath: string, field: MetadataField) {
+export async function readMetadataField(
+  filePath: string,
+  field: MetadataField,
+) {
   const process = new Deno.Command("typst", {
     args: ["query", filePath, `<${field}>`, "--field", "value"],
   });
