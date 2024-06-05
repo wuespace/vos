@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: Install Google Fonts
         run: |
+          cd ~
           wget -O Atkinson_Hyperlegible.zip https://fonts.google.com/download?family=Atkinson%20Hyperlegible
           unzip -d Atkinson_Hyperlegible/ Atkinson_Hyperlegible.zip
           mv Atkinson_Hyperlegible /usr/share/fonts/
