@@ -6,7 +6,7 @@ import { compileTypst } from "./compile.ts";
 export const typstDelegis = () => (site: Site) => {
   site.preprocess([".typ"], async (filteredPages, allPages) => {
     const urls: Record<string, Metadata> = {};
-    await Promise.allSettled(filteredPages.map(async (page) => {
+    for (const page of filteredPages) {
       const metadata = await readMetadata(site.src(page.sourcePath));
       urls[site.url(page.data.url)] = metadata;
 
@@ -30,11 +30,12 @@ export const typstDelegis = () => (site: Site) => {
         site.dest(page.outputPath, ".."),
         { recursive: true },
       );
+
       await compileTypst(
         site.src(page.sourcePath),
         site.dest(page.outputPath.replace("index.html", "rendered.pdf")),
       );
-    }));
+    }
 
     allPages.map((page) => page.data = { ...page.data, vos: urls });
   });
