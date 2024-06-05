@@ -1,6 +1,7 @@
 import { Aside } from "./_components/Aside.tsx";
 
 export const layout = "index.tsx";
+export const title = "WüSpace VOS: Satzung und Vereinsordnungen des WüSpace e. V.";
 
 export default function Index({ vos, ...data }: Lume.Data, helpers: Lume.Helpers) {
   return <>

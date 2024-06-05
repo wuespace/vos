@@ -15,14 +15,16 @@ export function Aside({ data, hide }: AsideProps) {
 
   return (
     <aside className={asideClass(hide ?? false)}>
-      <img
-        src="/assets/logo.svg"
-        alt="WüSpace"
-        className="block w-32 mx-auto"
-      />
-      <h1 className="mx-2 my-4 text-xl text-center text-gray-900">
-        VOS: Vereinsordnungssystem
-      </h1>
+      <a href="/">
+        <img
+          src="/assets/logo.svg"
+          alt="WüSpace"
+          className="block w-32 mx-auto"
+        />
+        <h1 className="mx-2 my-4 text-xl text-center text-gray-900">
+          VOS: Vereinsordnungssystem
+        </h1>
+      </a>
       <ul>
         {Object.entries(data.page.data.vos).sort(comparator).map(
           ([url, metadata]) => {
@@ -53,10 +55,11 @@ export function Aside({ data, hide }: AsideProps) {
   );
 }
 
-const asideClass = (hide: boolean) => clsx(
-  "h-full overflow-y-auto md:max-w-64",
-  hide && "hidden md:block",
-);
+const asideClass = (hide: boolean) =>
+  clsx(
+    "h-full overflow-y-auto md:max-w-64",
+    hide && "hidden md:block",
+  );
 
 const comparator = ([urlA]: [string, unknown], [urlB]: [string, unknown]) => {
   return urlA.localeCompare(urlB);

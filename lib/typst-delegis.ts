@@ -23,7 +23,7 @@ export const typstDelegis = () => (site: Site) => {
         ...page.data,
         layout: "vo.tsx",
         content: site.url(page.data.url + "rendered.pdf"),
-        title: metadata.abbreviation,
+        title: metadata.abbreviation + " - " + metadata.title + ` (WüSpace VOS)`,
       };
 
       await Deno.mkdir(
