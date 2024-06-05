@@ -8,7 +8,7 @@ export const typstDelegis = () => (site: Site) => {
     const urls: Record<string, Metadata> = {};
     await Promise.allSettled(filteredPages.map(async (page) => {
       const metadata = await readMetadata(site.src(page.sourcePath));
-      urls[page.data.url] = metadata;
+      urls[site.url(page.data.url)] = metadata;
 
       allPages.push(Page.create({
         url: page.data.url + "info.json",

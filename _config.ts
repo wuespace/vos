@@ -9,7 +9,7 @@ import tailwindConfig from "./tailwind.config.ts";
 await checkPrerequisities();
 
 export const site = lume({
-  location: new URL("https://wuespace.github.io/vos/")
+  location: new URL("https://wuespace.github.io/vos/"),
 });
 
 site.use(jsx());
