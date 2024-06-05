@@ -1,1 +1,3 @@
 pdfjs/* linguist-vendored
+*.js linguist-vendored
+*.flt linguist-vendored
