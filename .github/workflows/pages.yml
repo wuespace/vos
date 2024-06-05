@@ -23,6 +23,12 @@ jobs:
 
       - name: Compile Site
         run: deno task build
+        env:
+          TYPST_FONT_PATHS: fonts
+      - run: typst fonts
+        env:
+          TYPST_FONT_PATHS: fonts
+      - run: which cargo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
