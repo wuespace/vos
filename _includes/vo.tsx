@@ -7,7 +7,7 @@ export default function (data: Lume.Data, helpers: Lume.Helpers) {
     <>
       <Aside vos={data.page.data.vos} data={data} hide />
       <main className="flex-1">
-        <Preview src={helpers.url(data.content as string)} />
+        <Preview src={data.content as string} />
       </main>
     </>
   );
