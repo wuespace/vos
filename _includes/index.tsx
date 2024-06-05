@@ -6,6 +6,7 @@ export default function({content, title}: Lume.Data, helpers: Lume.Helpers) {
 		</head>
 		<body className="flex w-full h-full">
 			{content}
+			<script src={helpers.url("/assets/main.js")}></script>
 		</body>
 	</html>
 }
