@@ -3,8 +3,8 @@
 #show: it => delegis(
   title: "Geschäftsordnung des Vorstands des WüSpace e. V.",
   abbreviation: "VoGO",
-  resolution: "2. Beschluss des Vorstands vom 11. April 2024",
-  in-effect: "11.04.2024",
+  resolution: "1. Beschluss des Vorstands vom 18. Juli 2024, 2024/V-43",
+  in-effect: "18.07.2024",
   logo: image("wuespace.svg"),
   it
 )
@@ -102,6 +102,9 @@ Im Falle der Verhinderung des Vorstandsvorsitzes wird die Sitzungsleitung durch 
 
 (3)
 Anderenfalls ist zu Beginn der Sitzung eine Sitzungsleitung zu definieren.
+
+(4)
+Abweichend kann die vorgesehene Sitzungsleitung ein beliebiges anderes, anwesendes Vorstandsmitglied als Sitzungsleitung für einen bestimmten Tagesordnungspunkt oder die vollständige Sitzung ernennen.
 
 § 10 Öffentlichkeit von Vorstandssitzungen
 
