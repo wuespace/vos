@@ -4,9 +4,9 @@
   logo: image("wuespace.svg"),
   title: "Vereinsordnung zu Lizenzen im WüSpace e. V.",
   abbreviation: "LizVO",
-  resolution: "2. Vorstandsbeschluss vom 23.05.2024, 2024/V-27",
+  resolution: "Beschlüsse 34-37 des Vorstands vom 15.05.2025",
   draft: false,
-  in-effect: "23.05.2024"
+  in-effect: "15.05.2025"
 )
 
 #heading(outlined: false, numbering: none)[Vorbemerkung]
@@ -29,20 +29,19 @@ Erzeugnisse im Sinne dieser Vereinsordnung sind sämtliche Werke, Produkte, Desi
 
 § 3 Nutzungsrecht und Umfang
 
-(1) Die Mitglieder räumen dem Verein ein einfaches, nicht exklusives Nutzungsrecht an den Erzeugnissen ein.
+(1) Die Mitglieder räumen dem Verein ein einfaches, nicht exklusives und unbefristetes Nutzungsrecht an den Erzeugnissen ein.
 
 (2) Das Nutzungsrecht umfasst das Recht zur Nutzung, Bearbeitung, Veröffentlichung und Verbreitung der Erzeugnisse im Rahmen des Vereinszwecks, inklusive digitaler und kommerzieller Nutzung.
 
 § 4 Nutzung externer Erzeugnisse
 
-Bei Erzeugnissen mit externer Beteiligung muss der Verein äquivalente Nutzungsrechte durch einen Vertrag sicherstellen.
+Bei Erzeugnissen mit externer Beteiligung muss der Verein soweit möglich äquivalente Nutzungsrechte durch einen Vertrag sicherstellen.
 
 = Sonderregelungen
 
 § 5 Abweichungen von dieser Vereinsordnung
 
 Der Vorstand kann per Beschluss von den Regelungen dieser Vereinsordnung abweichen, wenn alle am Erzeugnis beteiligten Mitglieder zustimmen.
-#footnote[  Diese Regelung ermöglicht Flexibilität in speziellen Fällen, wenn alle Beteiligten zustimmen. Die Vereinsordnung kann nicht alle denkbaren Situationen abdecken, daher ermöglicht dieser Abschnitt, auf individuelle Umstände angemessen zu reagieren.]
 
 = Schlussbestimmungen
 
@@ -62,4 +61,4 @@ Für nach der Einführung dieser Vereinsordnung erbrachte Erzeugnisse gelten una
 
 § 7 Gültigkeit und Änderungen
 
-Diese Vereinsordnung tritt mit Beschluss des Vorstands zum 23.05.2024 in Kraft.
+Diese Vereinsordnung tritt mit Beschluss des Vorstands zum 23.05.2024 in Kraft, mit Änderungen zum 15.05.2025.

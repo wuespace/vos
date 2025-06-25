@@ -1,10 +1,10 @@
-#import "@preview/delegis:0.3.0": *
+#import "@preview/delegis:0.1.0": *
 
 #show: it => delegis(
   title: "Geschäftsordnung des Vorstands des WüSpace e. V.",
   abbreviation: "VoGO",
-  resolution: "1. Beschluss des Vorstands vom 18. Juli 2024, 2024/V-43",
-  in-effect: "18.07.2024",
+  resolution: "Beschlüsse 3-12 des Vorstands vom 15.05.2025",
+  in-effect: "15.05.2025",
   logo: image("wuespace.svg"),
   it
 )
@@ -46,13 +46,13 @@ Virtuelle Beschlüsse sind in der nächsten regulären Vorstandssitzung zu best�
 § 5 Beschlüsse über Finanzausgaben
 
 (1)
-Der Vorstand entscheidet satzungsgemäß über Ausgaben bis zu 5000,00 € alleine.
+Der Vorstand entscheidet über Ausgaben bis zur in der Satzung festgelegten Grenze allein.
 
 (2)
 Der Finanzvorstand ist ermächtigt, über Augaben bis zu 100,00 € alleine zu entscheiden.
 
 (3) 
-#s~Der Finanzvorstand kann in begründeten Einzelfällen, in denen dem Verein oder seinen Mitgliedern anderenfalls rechtliche oder gesundheitliche Risiken drohen, selbstständig Zahlungen bis zu 5000,00 € im Namen des Vereins durchführen. 
+#s~Der Finanzvorstand kann in begründeten Einzelfällen, in denen dem Verein oder seinen Mitgliedern anderenfalls rechtliche oder gesundheitliche Risiken drohen, selbstständig Zahlungen bis zur in der Satzung festgelegten Ausgabengrenze im Namen des Vereins durchführen. 
 #s~Diese sind in der nächsten Vorstandssitzung durch den Vorstand zu bestätigen. 
 #s~Bestätigt der Vorstand die Zahlung nicht, ist eine außerordentliche Mitgliederversammlung zu berufen, die final darüber entscheidet. 
 #s~Gewährt auch diese die Zahlung nicht als Zahlung des Vereins haftet der Finanzvorstand persönlich.
@@ -71,7 +71,7 @@ Protokolliert wird ausschließlich die Behandlung vereinsöffentlicher Tagesordn
 
 (4)
 #s~Alle Beschlüsse des Vorstands werden zusätzlich in einem zentralen Dokument festgehalten.
-#s~Dieses Dokument muss mindestens einmal pro Jahr aktualisiert und allen Mitgliedern des Vereins zugänglich gemacht werden.
+#s~Dieses Dokument muss den Mitgliedern vor jeder Mitgliederversammlung in aktueller Form zugänglich gemacht werden.
 
 = Vorstandssitzungen
 
@@ -82,38 +82,17 @@ Protokolliert wird ausschließlich die Behandlung vereinsöffentlicher Tagesordn
 #s~Hiervon kann im Einzelfall abgewichen werden.
 
 (2)
-Vorstandssitzungen sind beschlussfähig, wenn mind. zwei Vorstansmitglieder anwesend sind.
-
-§ 8 Berufung der Vorstandssitzung
-
-(1)
-Zur Vorstandssitzung lädt ein beliebiges Vorstandsmitglied.
-
-(2)
-Eine Berufung auf Grundlage eines regelmäßigen Termins ist ohne weitere formale Ladung zulässig, soweit sich dieser Umstand aus einem Protokoll nach §~6 festgehalten ist.
+Vorstandssitzungen sind beschlussfähig, wenn mind. zwei Vorstandsmitglieder anwesend sind.
 
 § 9 Sitzungsleitung
 
-(1)
-Die Vorstandssitzung wird durch den Vorstandsvorsitz geleitet.
-
-(2)
-Im Falle der Verhinderung des Vorstandsvorsitzes wird die Sitzungsleitung durch den stellvertretenden Vorstandsvorsitz übernommen.
-
-(3)
-Anderenfalls ist zu Beginn der Sitzung eine Sitzungsleitung zu definieren.
-
-(4)
-Abweichend kann die vorgesehene Sitzungsleitung ein beliebiges anderes, anwesendes Vorstandsmitglied als Sitzungsleitung für einen bestimmten Tagesordnungspunkt oder die vollständige Sitzung ernennen.
+Es ist zu Beginn der Sitzung eine Sitzungsleitung zu
+bestimmen.
 
 § 10 Öffentlichkeit von Vorstandssitzungen
 
 (1) 
-#s~Vorstandssitzungen sind grundsätzlich für alle Vereinsmitglieder öffentlich. 
-#s~Die Sitzungsleitung hat dafür zu sorgen, dass es Vereinsmitgliedern möglich ist, räumlich an den Sitzungen teilzunehmen.
-
-(2) 
-Über einen Geschäftsordnungsantrag kann beantragt werden, dass auch einzelne Nicht-Vereins-Mitglieder der Vorstandssitzung beiwohnen dürfen.
+Der Vorstand ermöglicht es ordentlichen Mitgliedern, an der Vorstandssitzung teilzunehmen.
 
 (3) 
 Von dieser Vereinsöffentlichkeit kann für einzelne Tagesordnungspunkte abgewichen werden durch
@@ -130,7 +109,7 @@ Von dieser Vereinsöffentlichkeit kann für einzelne Tagesordnungspunkte abgewic
 
 § 11 Anträge
 
-Jedes Vereins- und Vorstandsmitglied hat bei Vorstandssitzungen das Recht, Anträge zu stellen.
+Jedes ordentliche Vereinsmitglied hat das Recht, bei Vorstandssitzungen Anträge zu stellen.
 
 § 12 Abstimmungen
 
@@ -153,4 +132,4 @@ Gibt es keine Gegenrede, zählt ein Antrag ohne weitere Abstimmung als einstimmi
 Über Anträge zur Geschäftsordnung entscheidet die Sitzungsleitung.
 
 (3)
-Eine Entscheidung der Sitzungsleitung kann mit einfacher Mehrheit der anwesenden Mitglieder überstimmt werden.
+Eine Entscheidung der Sitzungsleitung kann mit einfacher Mehrheit der anwesenden Vorstandsmitglieder überstimmt werden.

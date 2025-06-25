@@ -3,13 +3,11 @@
 #show: delegis.with(
   title: "Vereinsordnung zur IT des WüSpace e. V.",
   abbreviation: "ITVO",
-  resolution: "2. Beschluss des Vorstands vom 23.11.2023, 2023/V-20",
-  in-effect: "23.11.2023",
+  resolution: "Beschlüsse 13-15 des Vorstands vom 15.05.2025",
+  in-effect: "15.05.2025",
   // draft: true,
   logo: image("wuespace.svg")
 )
-
-#outline()
 
 § 1 Informationstechnische Infrastruktur
 
@@ -27,9 +25,6 @@ Die informationstechnische Infrastruktur gemäß §~1 wird durch Systemadministr
 (2)
 Die Systemadministrator*innen können eigenständig andere Vereinsmitglieder ermächtigen, zweckgebunden auf die Infrastruktur zuzugreifen oder diese in Gänze zu verwalten, soweit dadurch kein zusätzlicher Zugriff auf personenbezogene Daten oder Verletzung von Schutzrechten erfolgt.
 
-(3)
-Die Systemadministrator*innen agieren nach ihnen bekannten branchenüblichen Verfahren.
-
 (4)
 Die Systemadministrator*innen sind in ihrer Tätigkeit an die Vorgaben der Satzung, Vereinsordnungen sowie dann an Weisungen des Vorstands gebunden, wenn hierdurch nicht die Sicherheit der Infrastruktur oder Teile derer gefährdet wird.
 
@@ -39,7 +34,7 @@ Die Systemadministrator*innen sind in ihrer Tätigkeit an die Vorgaben der Satzu
 Systemadministrator*innen werden durch Beschluss vom Vorstand oder der Mitgliederversammlung ernannt.
 
 (2)
-Voraussetzung ist die aktive Vereinsmitgliedschaft und eine formlose Versicherung, nach bestem Wissen und Gewissen den Vorgaben entsprechend zu arbeiten sowie die Unterzeichnung der _Verpflichtung zur Wahrung der Vertraulichkeit und zur Beachtung des Datenschutzes_.
+Voraussetzung ist die ordentliche Vereinsmitgliedschaft und eine formlose Versicherung, nach bestem Wissen und Gewissen den Vorgaben entsprechend zu arbeiten sowie die Unterzeichnung der _Verpflichtung zur Wahrung der Vertraulichkeit und zur Beachtung des Datenschutzes_.
 
 (3)
 Die Amtszeit endet mit Rücktritt oder auf Beschluss des Vorstands oder der Mitgliederversammlung.
@@ -47,7 +42,7 @@ Die Amtszeit endet mit Rücktritt oder auf Beschluss des Vorstands oder der Mitg
 § 4 In-Kraft-Treten
 
 (1)
-Die Vereinsordnung tritt durch den Vorstandsbeschluss zum 30.11.2023 in Kraft.
+Die Vereinsordnung tritt durch den Vorstandsbeschluss zum 30.11.2023 in Kraft, mit Änderungen zum 15.05.2025.
 
 (2)
 Gemäß §~10 Absatz~1 der Satzung ist sie bei der nächsten regulären Mitgliederversammlung zu genehmigen.

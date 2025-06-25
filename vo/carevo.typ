@@ -4,8 +4,8 @@
   // Metadata
   title: "Vereinsordnung zu Vertrauenspersonen des WüSpace e. V.",
   abbreviation: "CareVO",
-  resolution: "4. Beschluss der Mitgliederversammlung vom 03.07.2024, 2024/MV-4",
-  in-effect: "03.07.2024",
+  resolution: "Beschlüsse 38-41 des Vorstands vom 15.05.2025",
+  in-effect: "15.05.2025",
   draft: false,
   // Template
   logo: image("wuespace.svg", alt: "WüSpace e. V."),
@@ -43,7 +43,7 @@ Zur Sicherstellung einer offenen Kultur gibt es Vertrauenspersonen.
 § 3 Aufgaben der Vertrauenspersonen
 
 (1) 
-#s~Die Vertrauenspersonen fungieren beratend gegenüber dem Vorstandes und als vorstandsunabhängige Ansprechpersonen für die Vereinsmitglieder.
+#s~Die Vertrauenspersonen fungieren beratend gegenüber dem Vorstand und als vorstandsunabhängige Ansprechpersonen für die Vereinsmitglieder.
 #s~Die Vertrauenspersonen setzen sich darüber hinaus aktiv ein für
 + ein gutes Vereinsklima,
 + Diversität,
@@ -63,7 +63,7 @@ Die Vertrauenspersonen bieten keine
 (1)
 Als vorstandsunabhängige Ansprechstelle für die Vereinsmitglieder fungieren die Vertrauenspersonen insbesondere bei:
 + Überarbeitung;
-+ Vorschlägen für mehr Inklusivitaet im Verein;
++ Vorschlägen für mehr Inklusivität im Verein;
 + Sorgen;
 + Gesprächsbedarf;
 + zwischenmenschlichen Problemen, wie zum Beispiel
@@ -99,7 +99,7 @@ Die Vertrauenspersonen beraten den Vorstand in den unter ihre Zuständigkeit fal
 Die Vertrauenspersonen werden durch Beschluss des Vorstands oder der Mitgliederversammlung mit sofortiger Wirkung ernannt.
 
 (2)
-Voraussetzung ist die aktive Vereinsmitgliedschaft und eine formlose Versicherung, nach bestem Wissen und Gewissen den Vorgaben entsprechend zu arbeiten.
+Voraussetzung ist die ordentliche Vereinsmitgliedschaft und eine formlose Versicherung, nach bestem Wissen und Gewissen den Vorgaben entsprechend zu arbeiten.
 
 (3)
 #s~Die Amtszeit endet mit Erklärung des Rücktritts gegenüber des Vorstands oder auf Beschluss der Mitgliederversammlung oder des Vorstands.
@@ -116,4 +116,4 @@ Die Geheimhaltungsverpflichtungen gemäß §~4 Absatz 3 bleiben von der Berichts
 
 § 9 Inkrafttreten
 
-Diese Vereinsordnung tritt mit Beschluss der Mitgliederversammlung zum 03.07.2024 in Kraft und ergänzt die Satzung gemäß §~37 der Satzung.
+Diese Vereinsordnung tritt mit Beschluss der Mitgliederversammlung zum 03.07.2024 in Kraft, mit Änderungen zum 15.05.2025, und ergänzt die Satzung gemäß §~37 der Satzung.
