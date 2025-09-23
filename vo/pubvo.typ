@@ -17,19 +17,23 @@
 (1)
 Die Veröffentlichung wissenschaftlicher Erkenntnisse trägt zur Verwirklichung des in § 2 der Satzung festgelegten Zwecks des Vereins bei und wird aktiv durch Maßnahmen des Vorstands und der Projekte angestrebt.
 
+(2)
+(weggefallen)
+
 (3)
 Hierbei sind insbesondere wissenschaftliche Fachmedien sowie Konferenzen zu bevorzugen.
 
 § 2 Erzeugnisse
 
-(1)
 Erzeugnisse im Sinne dieser Vereinsordnung sind sämtliche Formen von zitierbaren Veröffentlichungen, die im Rahmen der Vereinsarbeit entstehen.
 
-§ 3 Autor*innen
+#section[§ 3][Autor*innen]
 
 Autor*innen im Sinne dieser Vereinsordnung sind sämtliche Personen, die an Erzeugnissen im Sinne des §~2 in erschaffender Rolle mitgewirkt haben.
 
 = Veröffentlichungsformen
+
+#section[§ 4][(weggefallen)]
 
 § 5 Eigene Veröffentlichung
 
@@ -47,7 +51,7 @@ Eigene Veröffentlichungen werden auf Zenodo veröffentlicht.
 
 = Ämter
 
-§ 6 Kurator*innen
+#section[§ 6][Kurator*innen]
 
 (1)
 Die eigenen Veröffentlichungen gemäß §~5 werden durch Kurator*innen verwaltet.
@@ -62,13 +66,16 @@ Für die inhaltliche Bewertung der eingereichten Arbeiten müssen Kurator*innen 
 (4)
 #s~Die Kurator*innen sind für die Verwaltung der `wuespace`-Zendono-Community verantwortlich.
 
+(5)
+(weggefallen)
+
 (6)
 Die Kurator*innen sind in ihrer Tätigkeit an die Vorgaben der Satzung, Vereinsordnungen sowie an Weisungen des Vorstands gebunden.
 
 (7)
 Eine Veröffentlichung setzt eine entsprechende Empfehlung der einfachen Mehrheit der eingesetzten Reviewer*innen voraus.
 
-§ 7 Amtszeit von Kurator*innen
+#section[§ 7][Amtszeit von Kurator*innen]
 
 (1)
 Kurator*innen werden durch Beschluss vom Vorstand oder der Mitgliederversammlung ernannt.
@@ -79,7 +86,7 @@ Voraussetzung ist die ordentliche Vereinsmitgliedschaft und eine formlose Versic
 (3)
 Die Amtszeit endet mit Rücktritt oder auf Beschluss des Vorstands oder der Mitgliederversammlung.
 
-§ 8 Reviewer*innen
+#section[§ 8][Reviewer*innen]
 
 (1)
 Reviewer*innen sind Fachexpert*innen, die inhaltliche Peer-Reviews von Erzeugnissen durchführen und Empfehlungen aussprechen.
@@ -87,6 +94,12 @@ Reviewer*innen sind Fachexpert*innen, die inhaltliche Peer-Reviews von Erzeugnis
 (2)
 #s~Die Reviewer*innen übermitteln ihr Feedback an die Kurator*innen und arbeiten auf Anfrage möglicherweise mit den Autor*innen zusammen, um bei der Integration des Feedbacks zu helfen.
 #s~Es liegt in der Verantwortung der Kurator*innen, das Feedback in den Veröffentlichungsprozess auf konstruktive Weise einzubeziehen.
+
+(3)
+(weggefallen)
+
+(4)
+(weggefallen)
 
 (5)
 Autor*innen und Kurator*innen erfüllen nicht die Voraussetzungen an unabhängige Reviewer*innen.

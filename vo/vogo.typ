@@ -84,15 +84,29 @@ Protokolliert wird ausschließlich die Behandlung vereinsöffentlicher Tagesordn
 (2)
 Vorstandssitzungen sind beschlussfähig, wenn mind. zwei Vorstandsmitglieder anwesend sind.
 
+#section[§ 8][(weggefallen)]
+
 § 9 Sitzungsleitung
 
-Es ist zu Beginn der Sitzung eine Sitzungsleitung zu
-bestimmen.
+(1)
+Es ist zu Beginn der Sitzung eine Sitzungsleitung zu bestimmen.
+
+(2)
+(weggefallen)
+
+(3)
+(weggefallen)
+
+(4)
+(weggefallen)
 
 § 10 Öffentlichkeit von Vorstandssitzungen
 
 (1) 
 Der Vorstand ermöglicht es ordentlichen Mitgliedern, an der Vorstandssitzung teilzunehmen.
+
+(2)
+(weggefallen)
 
 (3) 
 Von dieser Vereinsöffentlichkeit kann für einzelne Tagesordnungspunkte abgewichen werden durch

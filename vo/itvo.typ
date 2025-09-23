@@ -25,6 +25,9 @@ Die informationstechnische Infrastruktur gemäß §~1 wird durch Systemadministr
 (2)
 Die Systemadministrator*innen können eigenständig andere Vereinsmitglieder ermächtigen, zweckgebunden auf die Infrastruktur zuzugreifen oder diese in Gänze zu verwalten, soweit dadurch kein zusätzlicher Zugriff auf personenbezogene Daten oder Verletzung von Schutzrechten erfolgt.
 
+(3)
+(weggefallen)
+
 (4)
 Die Systemadministrator*innen sind in ihrer Tätigkeit an die Vorgaben der Satzung, Vereinsordnungen sowie dann an Weisungen des Vorstands gebunden, wenn hierdurch nicht die Sicherheit der Infrastruktur oder Teile derer gefährdet wird.
 
