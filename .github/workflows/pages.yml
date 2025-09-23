@@ -26,6 +26,8 @@ jobs:
 
       - name: Setup Typst
         uses: typst-community/setup-typst@v4.1.0
+        with:
+          typst-version: ^0.11.1
 
       - name: Compile Site
         run: deno task build
