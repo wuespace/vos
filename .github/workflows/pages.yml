@@ -29,7 +29,7 @@ jobs:
         with:
           typst-version: ^0.10.0
       - name: Test Typst
-        run: typst query vo/itvo.typ title
+        run: typst query vo/itvo.typ <title>
 
       - name: Compile Site
         run: deno task build
