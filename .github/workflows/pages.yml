@@ -28,6 +28,8 @@ jobs:
         uses: typst-community/setup-typst@v4.1.0
         with:
           typst-version: ^0.11.1
+      - name: Test Typst
+        run: typst query vo/itvo.typ title
 
       - name: Compile Site
         run: deno task build
