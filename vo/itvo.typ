@@ -1,4 +1,4 @@
-#import "@preview/delegis:0.3.0": *
+#import "@preview/delegis:0.4.0": *
 
 #show: delegis.with(
   title: "Vereinsordnung zur IT des WüSpace e. V.",
@@ -8,6 +8,8 @@
   // draft: true,
   logo: image("wuespace.svg")
 )
+
+#outline()
 
 § 1 Informationstechnische Infrastruktur
 

@@ -1,4 +1,4 @@
-#import "@preview/delegis:0.3.0": *
+#import "@preview/delegis:0.4.0": *
 
 #show: it => delegis(
   title: "Geschäftsordnung des Vorstands des WüSpace e. V.",
