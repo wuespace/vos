@@ -20,7 +20,7 @@
 //
 ///
 
-#unnumbered(level: 1, outlined: false)[Vorbemerkung]
+#heading(level: 1, outlined: false, numbering: none)[Vorbemerkung]
 
 Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und sind nicht selbst Teil der Beschlussfassung.
 
@@ -42,7 +42,7 @@ Zur Sicherstellung einer offenen Kultur gibt es Vertrauenspersonen.
 
 § 3 Aufgaben der Vertrauenspersonen
 
-(1) 
+(1)
 #s~Die Vertrauenspersonen fungieren beratend gegenüber dem Vorstand und als vorstandsunabhängige Ansprechpersonen für die Vereinsmitglieder.
 #s~Die Vertrauenspersonen setzen sich darüber hinaus aktiv ein für
 + ein gutes Vereinsklima,
@@ -54,9 +54,9 @@ Zur Sicherstellung einer offenen Kultur gibt es Vertrauenspersonen.
 Die Vertrauenspersonen bieten keine
 + Therapie,
 + Diagnosen oder
-+ offizielle Schreiben an. #footnote[
-  In diesen Fällen sollen die Vertrauenspersonen an die zuständigen Stellen weiterleiten.
-]
++ offizielle Schreiben an.#footnote[
+    In diesen Fällen sollen die Vertrauenspersonen an die zuständigen Stellen weiterleiten.
+  ]
 
 § 4 Ansprechstelle für Mitglieder
 
@@ -68,9 +68,9 @@ Als vorstandsunabhängige Ansprechstelle für die Vereinsmitglieder fungieren di
 + Gesprächsbedarf;
 + zwischenmenschlichen Problemen, wie zum Beispiel
   + Mobbing und
-  + Streit. #footnote[
-  Die Vertrauenspersonen sollen als neutrale Vermittler*innen agieren.
-]
+  + Streit.#footnote[
+      Die Vertrauenspersonen sollen als neutrale Vermittler*innen agieren.
+    ]
 
 (2)
 #s~Die beauftragten Personen werden in den Vereinsraeumen sowie im Online-Wiki vereinsöffentlich sichtbar bekanntgegeben, damit sie im Problemfall kontaktiert werden können, ohne den Umweg über andere Personen zu nehmen.
@@ -102,7 +102,7 @@ Die Vertrauenspersonen werden durch Beschluss des Vorstands oder der Mitgliederv
 Voraussetzung ist die ordentliche Vereinsmitgliedschaft und eine formlose Versicherung, nach bestem Wissen und Gewissen den Vorgaben entsprechend zu arbeiten.
 
 (3)
-#s~Die Amtszeit endet mit Erklärung des Rücktritts gegenüber des Vorstands oder auf Beschluss der Mitgliederversammlung oder des Vorstands.
+Die Amtszeit endet mit Erklärung des Rücktritts gegenüber des Vorstands oder auf Beschluss der Mitgliederversammlung oder des Vorstands.
 
 § 8 Bericht an die Mitgliederversammlung
 

@@ -8,7 +8,7 @@
   resolution: "2. Beschluss des Vorstands vom 02.10.2025",
 )
 
-#unnumbered(level: 1, outlined: false)[Vorbemerkung]
+#heading(numbering: none, outlined: false)[Vorbemerkung]
 
 Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und sind nicht selbst Teil der Beschlussfassung.
 
@@ -30,7 +30,6 @@ Ein offener Zugang zu den im Verein erzeugten wissenschaftlichen Veröffentlichu
 
 (3)
 (weggefallen)
-Hierbei sind insbesondere wissenschaftliche Fachmedien sowie Konferenzen zu bevorzugen.
 
 § 2 Erzeugnisse
 

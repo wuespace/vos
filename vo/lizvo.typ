@@ -6,7 +6,7 @@
   abbreviation: "LizVO",
   resolution: "Beschlüsse 34-37 des Vorstands vom 15.05.2025",
   draft: false,
-  in-effect: "15.05.2025"
+  in-effect: "15.05.2025",
 )
 
 #heading(outlined: false, numbering: none)[Vorbemerkung]
@@ -29,9 +29,11 @@ Erzeugnisse im Sinne dieser Vereinsordnung sind sämtliche Werke, Produkte, Desi
 
 § 3 Nutzungsrecht und Umfang
 
-(1) Die Mitglieder räumen dem Verein ein einfaches, nicht exklusives und unbefristetes Nutzungsrecht an den Erzeugnissen ein.
+(1)
+Die Mitglieder räumen dem Verein ein einfaches, nicht exklusives und unbefristetes Nutzungsrecht an den Erzeugnissen ein.
 
-(2) Das Nutzungsrecht umfasst das Recht zur Nutzung, Bearbeitung, Veröffentlichung und Verbreitung der Erzeugnisse im Rahmen des Vereinszwecks, inklusive digitaler und kommerzieller Nutzung.
+(2)
+Das Nutzungsrecht umfasst das Recht zur Nutzung, Bearbeitung, Veröffentlichung und Verbreitung der Erzeugnisse im Rahmen des Vereinszwecks, inklusive digitaler und kommerzieller Nutzung.
 
 § 4 Nutzung externer Erzeugnisse
 
@@ -51,8 +53,7 @@ Der Vorstand kann per Beschluss von den Regelungen dieser Vereinsordnung abweich
 Für vor der Einführung dieser Vereinsordnung erbrachte Erzeugnisse, die von einem CLA abgedeckt wurden, gelten deren Regelungen, sofern sie nicht im Widerspruch zu dieser Vereinsordnung steht.
 
 (2)
-Für vor der Einführung dieser Vereinsordnung erbrachte Erzeugnisse, die nicht von einem CLA abgedeckt wurden, gelten die Regelungen dieser Vereinsordnung.
-#footnote[
+Für vor der Einführung dieser Vereinsordnung erbrachte Erzeugnisse, die nicht von einem CLA abgedeckt wurden, gelten die Regelungen dieser Vereinsordnung.#footnote[
   Eine rückwirkende Einführung ist hier möglich, nachdem diese nur die explizite Aussprache einer bisher implizit erfolgten Praxis entspricht.
 ]
 

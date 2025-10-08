@@ -10,7 +10,7 @@
   // Template
   logo: image("wuespace.svg", alt: "WüSpace e. V."),
   // Content
-  it
+  it,
 )
 
 /// Usage
@@ -53,16 +53,16 @@ Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und si
 (1) Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung und
 technischen Anwendungen im Bereich der Raumfahrt.
 
-(2) 
+(2)
 #s~Der Satzungszweck wird verwirklicht insbesondere durch die Durchführung von Luft- und Raumfahrtprojekten und luft- und raumfahrtbezogenen Forschungsvorhaben, sowie der Organisation von Seminaren und Konferenzen, als auch der Partizipation an solchen.
 #s~Des Weiteren dient der Verein als Kommunikationsplattform zwischen Studierenden, Interessent*innen der Industrie, Forschung und Öffentlichkeit und arbeitet mit diesen zusammen.
 
 § 3 Selbstlosigkeit
 
-(1) 
+(1)
 Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
-(2) 
+(2)
 #s~Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 #s~Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins.
 #s~Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
@@ -108,7 +108,7 @@ Der Verein besteht aus ordentlichen Mitgliedern, Alumni-Mitgliedern, Fördermitg
 (2)
 Die Art der Mitgliedschaft (und sämtliche Änderungen derer) ist auf dem Mitgliedschaftsantrag zu vermerken.
 
-(3) 
+(3)
 Eine Änderung der Art der Mitgliedschaft kann durch das Mitglied in schriftlicher Form gegenüber dem Vorstand beantragt werden.
 
 § 8 Ordentliche Mitglieder
@@ -275,7 +275,8 @@ Anträge auf Abwahl des Vorstandes, auf Änderung oder Neufassung der Satzung so
 Beschlussfähig ist jede ordnungsgemäß berufene Mitgliederversammlung, sofern mindestens 7 stimmberechtigte Mitglieder anwesend sind.
 
 (2)
-Es wird offen abgestimmt. Auf Antrag von mindestens fünf der Anwesenden oder auf Entscheidung der Versammlungsleitung (zur Gewährleistung gesetzlicher Bestimmungen) ist geheim abzustimmen.
+#s~Es wird offen abgestimmt.
+#s~Auf Antrag von mindestens fünf der Anwesenden oder auf Entscheidung der Versammlungsleitung (zur Gewährleistung gesetzlicher Bestimmungen) ist geheim abzustimmen.
 
 (3)
 #s~Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit gefasst.
@@ -332,7 +333,8 @@ Der/die Kassenprüfer*in erstattet der ordentlichen Mitgliederversammlung Berich
 
 § 34 Virtuelle Mitgliederversammlung
 
-#s~Die Mitgliederversammlung kann online abgehalten werden. Der Vorstand muss dies in seiner regulären Einladung ankündigen.
+#s~Die Mitgliederversammlung kann online abgehalten werden.
+#s~Der Vorstand muss dies in seiner regulären Einladung ankündigen.
 #s~Findet die Versammlung online statt, üben die Vereinsmitglieder ihre Rechte durch elektronische Kommunikation aus.
 #s~Alternativ können Mitglieder, denen eine Teilnahme online nicht möglich ist, ihre Stimme für Abstimmungen und Wahlen, bei denen sie stimmberechtigt sind, vor der Versammlung schriftlich dem Vorstand zukommen lassen.
 #s~Die Stimme wird in dem Fall genauso gezählt, wie wenn das Mitglied diese direkt (z. B. über elektronischen Kommunikationsweg) abgegeben hätte.
