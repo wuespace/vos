@@ -221,7 +221,7 @@ Die Vertretungsmacht des Vorstands ist mit Wirkung gegen Dritte in der Weise bes
 
 Der Vorstand kann sich eine Geschäftsordnung geben.
 
-#unnumbered[§ 22\ Vertreter*innen]
+#section[§ 22][Vertreter*innen]
 
 Der Vorstand kann seine Vertreter*innen bestimmen und ihnen Aufgaben übertragen.
 
