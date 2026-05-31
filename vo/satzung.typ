@@ -300,7 +300,7 @@ Die Mitgliederversammlung bestimmt ein*e Wahlleiter*in, der/die nicht dem Vorsta
 
 (2)
 Die Wahlleitung übernimmt die Versammlungsleitung für Beschlussfassungen, bei denen
-+ bei denen Personen zu wählen sind oder
++ Personen zu wählen sind oder
 + bei welchen der/die Versammlungsleiter*in gemäß §~34~BGB kein Stimmrecht besitzt (bspw. bei der Entlastung des Vorstandes).
 
 (3)
@@ -376,7 +376,7 @@ Vereinsordnungen sind nicht Bestandteil dieser Vereinssatzung und werden nicht i
 Der Verein darf Daten seiner Mitglieder auf der Homepage des Vereins veröffentlichen, wenn das Mitglied dem ausdrücklich zustimmt.
 
 (3)
-Zur Erfüllung der Zwecke und Aufgaben des Vereins werden unter Beachtung der Vorgaben der EU-Datenschutz-Grundverordnung (DS-GVO) und des (3) Bundesdatenschutzgesetzes (BDSG) personenbezogene Daten über persönliche und sachliche Verhältnisse der Mitglieder im Verein verarbeitet.
+Zur Erfüllung der Zwecke und Aufgaben des Vereins werden unter Beachtung der Vorgaben der EU-Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG) personenbezogene Daten über persönliche und sachliche Verhältnisse der Mitglieder im Verein verarbeitet.
 
 (4)
 Soweit die in den jeweiligen Vorschriften beschriebenen Voraussetzungen vorliegen, hat jedes Vereinsmitglied insbesondere die folgenden Rechte:
