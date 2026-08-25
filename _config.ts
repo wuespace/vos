@@ -21,7 +21,7 @@ site.use(
   tailwindcss(tailwindConfig),
 );
 site.use(postcss());
-site.use(favicon({ input: "assets/logo.svg" }));
+site.use(favicon({ input: "assets/favicon-white.svg" }));
 site.use(sitemap());
 site.use(typstDelegis());
 site.copy("assets");

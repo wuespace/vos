@@ -4,8 +4,9 @@
   // Metadata
   title: "Satzung des WüSpace e. V.",
   abbreviation: "Satzung",
-  resolution: "2023/MV-7 i. V. m. 2024/V-3",
-  in-effect: "29.01.2024",
+  //resolution: "2026/MV-14",
+  resolution: "Mitgliederversammlung am 18.06.2026",
+  in-effect: "18.08.2026",
   draft: false,
   // Template
   logo: image("wuespace.svg", alt: "WüSpace e. V."),
@@ -22,8 +23,10 @@
 ///
 
 #unnumbered(level: 1, outlined: false)[Vorbemerkung]
+Die hier gezeigte Version wurde gegnüber der eingetragenen Version durch Teilüberschriften und Satznummern ergänzt. Beides ist nicht Teil der Beschlussfassung.
 
-Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und sind nicht selbst Teil der Beschlussfassung.
+// ***Legacy*** - wurde 2026-07-07 entfernt, da keine Fußnoten zu finden sind
+//Die Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und sind nicht selbst Teil der Beschlussfassung.
 
 #v(2em)
 
@@ -34,35 +37,36 @@ Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und si
   it
 }
 
-// #unnumbered[Präambel]
-
-// #lorem(30)
+// ***Hinweis***: Überschriften bieten wenig Vorteil, während sie nie beschlossen wurden, sodass wir sie bei der Eintragung am 2026-08-18 weggelassen haben. Für die Vereinsseite sind sie aber wieder dazu gekommen. Ebenso sind in der Eintragung nicht die Satznummern (#s~) vorhanden.
 
 = Allgemeiner Teil
 
 § 1 Name und Sitz des Vereins
 
-(1) Der Name des Vereins ist WüSpace e. V.
+(1)
+Der Name des Vereins ist WüSpace e. V.
 
-(2) Der Sitz des Vereins ist Würzburg.
+(2)
+Der Sitz des Vereins ist Würzburg.
 
-(3) Der Verein ist in das Vereinsregister eingetragen.
+(3)
+Der Verein ist in das Vereinsregister eingetragen.
 
 § 2 Zweck des Vereins
 
-(1) Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung und
-technischen Anwendungen im Bereich der Raumfahrt.
+(1)
+Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung und technischen Anwendungen im Bereich der Raumfahrt.
 
-(2)
+(2) 
 #s~Der Satzungszweck wird verwirklicht insbesondere durch die Durchführung von Luft- und Raumfahrtprojekten und luft- und raumfahrtbezogenen Forschungsvorhaben, sowie der Organisation von Seminaren und Konferenzen, als auch der Partizipation an solchen.
 #s~Des Weiteren dient der Verein als Kommunikationsplattform zwischen Studierenden, Interessent*innen der Industrie, Forschung und Öffentlichkeit und arbeitet mit diesen zusammen.
 
 § 3 Selbstlosigkeit
 
-(1)
+(1) 
 Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
-(2)
+(2) 
 #s~Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 #s~Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins.
 #s~Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
@@ -78,9 +82,11 @@ Mitglieder des Vereins können natürliche und juristische Personen werden, welc
 
 § 5 Beitritt
 
-(1) Der Beitritt erfolgt durch ein öffentliches Formular, das durch zwei Mitglieder des Vorstandes zu unterzeichnen ist.
+(1)
+Der Beitritt erfolgt durch ein öffentliches Formular, das durch zwei Mitglieder des Vorstandes zu unterzeichnen ist.
 
-(2) Der Vorstand entscheidet mit einer absoluten Mehrheit über Änderungen des Status eines Mitglieds.
+(2)
+Der Vorstand entscheidet mit einer absoluten Mehrheit über Änderungen des Status eines Mitglieds.
 
 § 6 Ende der Mitgliedschaft
 
@@ -88,7 +94,7 @@ Mitglieder des Vereins können natürliche und juristische Personen werden, welc
 Die Mitgliedschaft endet durch
 + Austritt des Mitgliedes,
 + Ausschluss des Mitgliedes oder
-+ Tod des Mitgliedes
++ Tod des Mitgliedes.
 
 (2)
 Der Austritt kann durch das Mitglied nur durch schriftliche Mitteilung gegenüber dem Vorstand erklärt werden.
@@ -98,7 +104,8 @@ Der Ausschluss des Mitgliedes kann durch den Vorstand beschlossen werden, wenn
 + das Mitglied gegen die Interessen des Vereins grob verstoßen hat oder
 + mit der Zahlung seiner Mitgliedsbeiträge im Rückstand ist und trotz schriftlicher Mahnung unter Androhung des Ausschlusses die Rückstände nicht gezahlt hat.
 
-(4) Zu viel bezahlte Beiträge innerhalb von vier Wochen nach Austritt zurückerstattet.
+(4)
+Zu viel bezahlte Beiträge werden innerhalb von vier Wochen nach Austritt zurückerstattet.
 
 § 7 Arten der Mitgliedschaft
 
@@ -108,7 +115,7 @@ Der Verein besteht aus ordentlichen Mitgliedern, Alumni-Mitgliedern, Fördermitg
 (2)
 Die Art der Mitgliedschaft (und sämtliche Änderungen derer) ist auf dem Mitgliedschaftsantrag zu vermerken.
 
-(3)
+(3) 
 Eine Änderung der Art der Mitgliedschaft kann durch das Mitglied in schriftlicher Form gegenüber dem Vorstand beantragt werden.
 
 § 8 Ordentliche Mitglieder
@@ -118,7 +125,7 @@ Ordentliche Mitglieder sind natürliche Personen, die aktiv am Vereinsleben teil
 § 9 Alumni-Mitglieder
 
 (1)
-Voraussetzung für Alumni Mitglieder ist, dass sie zuvor mindestens ein Jahr als ordentliche Mitglieder im Verein aktiv gewesen sind.
+Vorraussetzung für Alumni-Mitglieder ist, dass sie zuvor mindestens ein Jahr als ordentliche Mitglieder im Verein aktiv gewesen sind.
 
 (2)
 Alumni-Mitglieder haben kein Stimmrecht.
@@ -126,7 +133,7 @@ Alumni-Mitglieder haben kein Stimmrecht.
 § 10 Fördermitglieder
 
 (1)
-Fördermitglieder sind natürliche oder juristische Personen, die ohne aktiv am Vereinsleben teilzunehmen, eine Mitgliedschaft zur finanziellen Förderung des Vereins und seiner Zwecke Mitglied sind.
+Fördermitglieder sind natürliche oder juristische Personen, die, ohne aktiv am Vereinsleben teilzunehmen, zur finanziellen Förderung des Vereins und seiner Zwecke Mitglied sind.
 
 (2)
 Fördermitglieder haben kein Stimmrecht.
@@ -134,7 +141,9 @@ Fördermitglieder haben kein Stimmrecht.
 § 11 Ehrenmitglieder
 
 (1)
-Auf Vorschlag des Vorstands oder eines Vereinsmitglieds kann die Mitgliederversammlung Mitglieder oder sonstige Personen, die sich um den Verein besonders verdient gemacht haben, zu Ehrenmitgliedern ernennen.
+Auf Vorschlag des Vorstands oder eines Vereinsmitglieds kann die Mitgliederversammlung Mitglieder oder sonstige Personen, die sich um den Verein besonders verdient gemacht haben, als Ehrenmitglied vorschlagen.
+Der Vorstand ist in der Folge ermächtigt, der entsprechenden Person eine Ehrenmitgliedschaft anzubieten.
+Der Mitgliedschaftsstatus ändert sich mit Annahme der Ehrenmitgliedschaft durch die vorgeschlagene Person.
 
 (2)
 Die Ehrenmitgliedschaft kann wie andere Formen der Mitgliedschaft entsprechend den Regelungen in §~6 beendet und aberkannt werden.
@@ -172,7 +181,7 @@ Der Finanzvorstand informiert rechtzeitig über fällige Zahlungen und verschick
 #s~Neben dem Mitgliedsbeitrag kann der Verein von seinen Mitgliedern Umlagen erheben, wenn es im Einzelfall für die wirtschaftliche Integrität des Vereins zwingend erforderlich ist.
 #s~Diese Umlage ist von der Mitgliederversammlung auf Antrag des Vorstandes zu beschließen.
 #s~Der Antrag muss die Erforderlichkeit erläutern.
-#s~Die Umlage darf nicht höher als der 1,5 fache Jahresbeitrag sein.
+#s~Die Umlage darf nicht höher als der 1,5-fache Jahresbeitrag sein.
 
 = Organe des Vereins
 
@@ -206,11 +215,12 @@ Der Vorstand führt die Vereinsgeschäfte ehrenamtlich.
 § 18 Bestellung des Vorstands
 
 #s~Der Vorstand wird durch die Mitgliederversammlung für die Dauer von einem halben Jahr gewählt.
-#s~Eine Wiederwahl ist zulässig. Die Mitglieder des Vorstands bleiben so lange im Amt, bis ein neuer Vorstand gewählt worden ist.
+#s~Eine Wiederwahl ist zulässig.
+#s~Die Mitglieder des Vorstands bleiben so lange im Amt, bis ein neuer Vorstand gewählt worden ist.
 
-§ 19 Einschränkung der Vertretungsmacht
+§ 19 Informationspflicht bei Ausgaben
 
-Die Vertretungsmacht des Vorstands ist mit Wirkung gegen Dritte in der Weise beschränkt, dass für Ausgaben von mehr als 5000,00 € in einer Summe die Zustimmung der Mitgliederversammlung erforderlich ist.
+Bei Ausgaben mit einer Höhe von 5000,00 € oder mehr hat der Vorstand binnen zwei Wochen nach Bekanntwerden der Zahlungspflicht alle stimmberechtigten Mitglieder über die Ausgabe zu informieren.
 
 § 20 Dringliche Satzungsänderungen
 
@@ -221,7 +231,7 @@ Die Vertretungsmacht des Vorstands ist mit Wirkung gegen Dritte in der Weise bes
 
 Der Vorstand kann sich eine Geschäftsordnung geben.
 
-#section[§ 22][Vertreter*innen]
+§ 22 Vertreter*innen
 
 Der Vorstand kann seine Vertreter*innen bestimmen und ihnen Aufgaben übertragen.
 
@@ -238,14 +248,14 @@ Zu der Mitgliederversammlung ist mit einer Frist von zwei Wochen vor dem Termin 
 § 24 Aufgaben der Mitgliederversammlung
 
 Die Mitgliederversammlung ist im Besonderen zuständig für:
-+ die Entgegennahme der Vorstandsberichte
-+ Entlastung des Vorstandes
-+ Wahl des Vorstandes
-+ Schaffung von Vereinsordnungen und deren Änderungen
-+ Satzungsänderungen
-+ Auflösung des Vereins
-+ Festlegen der Mitgliedsbeiträge
-+ Beschluss über die Erhebung einer Umlage
++ die Entgegennahme der Vorstandsberichte,
++ Entlastung des Vorstandes,
++ Wahl des Vorstandes,
++ Schaffung von Vereinsordnungen und deren Änderungen,
++ Satzungsänderungen,
++ Auflösung des Vereins,
++ Festlegen der Mitgliedsbeiträge,
++ Beschluss über die Erhebung einer Umlage.
 
 § 25 Antragsfrist
 
@@ -275,8 +285,8 @@ Anträge auf Abwahl des Vorstandes, auf Änderung oder Neufassung der Satzung so
 Beschlussfähig ist jede ordnungsgemäß berufene Mitgliederversammlung, sofern mindestens 7 stimmberechtigte Mitglieder anwesend sind.
 
 (2)
-#s~Es wird offen abgestimmt.
-#s~Auf Antrag von mindestens fünf der Anwesenden oder auf Entscheidung der Versammlungsleitung (zur Gewährleistung gesetzlicher Bestimmungen) ist geheim abzustimmen.
+Es wird offen abgestimmt.
+Auf Antrag von mindestens fünf der Anwesenden oder auf Entscheidung der Versammlungsleitung (zur Gewährleistung gesetzlicher Bestimmungen) ist geheim abzustimmen.
 
 (3)
 #s~Die Beschlüsse der Mitgliederversammlung werden mit einfacher Mehrheit gefasst.
@@ -287,7 +297,7 @@ Beschlussfähig ist jede ordnungsgemäß berufene Mitgliederversammlung, sofern 
 Jedes Mitglied ist stimmberechtigt, außer es gehört einer Gruppe an, die ausdrücklich vom Stimmrecht ausgeschlossen ist.
 
 (5)
-Satzungsänderungen benötigen eine 3/4 Mehrheit.
+Satzungsänderungen benötigen eine Dreiviertel-Mehrheit.
 
 § 29 Blockwahlen
 
@@ -312,7 +322,7 @@ Nach Abschluss der entsprechenden Abstimmung(/-en) geht die Versammlungsleitung 
 Die Nutzung elektronischer Wahl- und Abstimmungseinrichtungen ist zulässig, soweit durch die Versammlungsleitung sichergestellt wurde, dass sämtliche anwesenden stimmberechtigten Mitglieder die Möglichkeit zur Abstimmung über dieses Medium haben.
 
 (2)
-Bei elektronischen Wahl- und Abstimmungseinrichtungen ist sicherzustellen, dass die sonst für die Abstimmung geltenden Regelungen (Geheimheit bzw.  Offenheit, Stimmberechtigung) gewährleistet werden können.
+Bei elektronischen Wahl- und Abstimmungseinrichtungen ist sicherzustellen, dass die sonst für die Abstimmung geltenden Regelungen (Geheimheit bzw. Offenheit, Stimmberechtigung) gewährleistet werden können.
 
 § 32 Beurkundung von Beschlüssen
 
@@ -329,7 +339,7 @@ Das Protokoll ist durch Protokollant*in und der die Versammlung schließenden Ve
 #s~Diese*r darf nicht dem Vorstand angehören und hat das Recht, jederzeit die Kassengeschäfte zu überprüfen.
 
 (2)
-Der/die Kassenprüfer*in erstattet der ordentlichen Mitgliederversammlung Bericht und beantragen bei ordnungsgemäß geführten Kassengeschäften die Entlastung des Vorstandes.
+Der/die Kassenprüfer*in erstattet der ordentlichen Mitgliederversammlung Bericht und beantragt bei ordnungsgemäß geführten Kassengeschäften die Entlastung des Vorstandes.
 
 § 34 Virtuelle Mitgliederversammlung
 
@@ -341,7 +351,7 @@ Der/die Kassenprüfer*in erstattet der ordentlichen Mitgliederversammlung Berich
 
 § 35 Außerordentliche Mitgliederversammlung
 
-Eine außerordentliche Mitgliederversammlung ist durch den Vorstand einzuberufen, sofern dies im Interesse des Vereins erforderlich ist oder die Einberufung durch mindestens 20 % der Mitglieder, durch einen schriftlichen und begründeten Antrag verlangt wird.
+Eine außerordentliche Mitgliederversammlung ist durch den Vorstand einzuberufen, sofern dies im Interesse des Vereins erforderlich ist oder die Einberufung durch mindestens ein Zehntel der Mitglieder, durch einen schriftlichen und begründeten Antrag verlangt wird.
 
 § 36 Geschäftsordnung der Mitgliederversammlung
 
@@ -367,7 +377,7 @@ Vereinsordnungen sind nicht Bestandteil dieser Vereinssatzung und werden nicht i
 
 (1)
 #s~Im Rahmen der Mitgliederverwaltung werden von den Mitgliedern persönliche Daten erhoben.
-#s~Mit dem Betritt eines Mitgliedes nimmt der Verein alle für die Mitgliedschaft im Verein relevanten Daten (Name, Anschrift, Geburtsdatum, Bankverbindung, E-Mail Adresse) auf.
+#s~Mit dem Beitritt eines Mitgliedes nimmt der Verein alle für die Mitgliedschaft im Verein relevanten Daten (Name, Anschrift, Geburtsdatum, Bankverbindung, E-Mail Adresse) auf.
 #s~Diese Informationen werden in dem vereinseigenen EDV-System gespeichert.
 #s~Jedem Vereinsmitglied wird eine Mitgliedsnummer zugeordnet.
 #s~Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
@@ -402,12 +412,13 @@ Die E-Mail ist ein gängiges Kommunikationsmittel und in ihrer Verwendung dem Br
 #s~Dieser Beschluss erfolgt einstimmig.
 
 (2)
-Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigender Zwecke fällt das Vermögen des Vereins an das Zentrum für Telematik e. V., das es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
+Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den Bundesverband studentischer Raumfahrt e. V., der es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat.
 
 § 41 Inkrafttreten
 
 (1)
-Die Satzung ist in ihrer vorliegenden Form am 08.12.2023 von der Mitgliederversammlung beschlossen worden und tritt mit Eintragung in Kraft.
+Die Satzung ist in ihrer vorliegenden Form am 18.12.2023 von der Mitgliederversammlung beschlossen worden und tritt mit Eintragung in Kraft.
+Die Satzung wurde am 18.06.2026 durch Beschlüsse der Mitgliederversammlung geändert.
 
 (2)
 #s~Beim Inkrafttreten wird bis auf Weiteres der bisherige monatliche Mitgliedsbeitrag vom 12.06.2019 für ordentliche Mitglieder €1,- übernommen.
