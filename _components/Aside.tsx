@@ -32,9 +32,9 @@ export default function (props: z.input<typeof PropsSchema>) {
     <aside className={asideClass(hide ?? false)}>
       <a href="/" className="block">
         <img
-          src="/assets/logo.svg"
+          src="/assets/wide-black.svg"
           alt="WüSpace"
-          className="block w-32 mx-auto"
+          className="block w-64 mx-auto"
         />
         <h1 className="mx-2 my-4 text-xl text-center text-gray-900">
           VOS: Vereinsordnungssystem
